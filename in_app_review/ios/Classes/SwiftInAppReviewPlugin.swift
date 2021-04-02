@@ -77,6 +77,6 @@ public class SwiftInAppReviewPlugin: NSObject, FlutterPlugin {
         default:
             result(FlutterMethodNotImplemented)
   }
-    
+  }
     
 }
